@@ -12,7 +12,7 @@ position in the field of Computer Science so as to utilize my skills for organiz
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Violence Detection**  |Computer Vision based ML system that detects violence using Python                                        | [Hosted Link 1](https://example.com)    | [Repo Link 1]([https://github.com/username/project1](https://github.com/Dayes-Joseph/Violence-Detection-in-Real-Time))             |
+| **Violence Detection**  |Computer Vision based ML system that detects violence using Python                                        | [Hosted Link 1](https://example.com)    | [Repo Link 1]([https://github.com/username/project1](https://github.com/Dayes-Joseph/Violence-Detection-in-Real-Time)             |
 | **Placement Portal**  | Web app using HTML, pHp, CSS, JS.                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
